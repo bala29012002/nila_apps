@@ -1,4 +1,4 @@
-package com.nila_apps.adaptive_learning_path_builder;
+package com.nilaapps.adaptive.learning.path.builder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
